@@ -50,10 +50,10 @@ Here are some of the projects I've worked on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimi1&layout=compact&theme=radical)
 
 ## Connect with Me
-
-- [LinkedIn](#)
-- [Twitter](#)
+- [Email](mailto:duwagbale07@gmail.com)
 - [Personal Website](https://davidtimi1.github.io)
+- [Twitter](https://twitter.com/DavidTimi_1)
+- [LinkedIn](https://linkedin.com/in/DavidUwagbale)
 
 ---
 
