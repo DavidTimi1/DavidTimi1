@@ -6,23 +6,35 @@ I am a passionate Fullstack web developer with over 2 years of experience in web
 
 ## About Me
 
-- 🔭 I’m currently working on [Message50](https://message50-frontend.vercel.app), An e2ee webapp
+- 🔭 I’m currently working on [**Message50**](https://message50-frontend.vercel.app/app), An e2ee webapp which extensively leverages current browser capabilities 💫
+  
 - 🌱 I’m currently learning NextJs and Typescript to add to my skillset
-- 👯 I’m looking to collaborate on AI-powered and AI-enhanced projects 
-- 🤔 I’m looking for help with [Your Help Requests]
+  
+- 👯 I’m looking to collaborate on AI-powered and AI-enhanced projects
+  
+- 🤔 I’m looking for help with setting **Twilio** up for messaging
+  
 - 💬 Ask me about:
-  ** 
+  *Programming in general, Web caoabilties, Project structuring and SEO optimisation*.
+ 
 - 📫 How to reach me:
-  [My Email](mailto:duwagbale07@gmail.com)
+  [Email](mailto:duwagbale07@gmail.com)
+  
 - 😄 Pronouns: He/Him
+  
 - ⚡ Fun fact: I'm quite langly but have tons of humour to spare 😄 
+
 
 ## Skills
 
 - **Programming Languages:** Javascript, C (just a lil 😅), Python, SQL
+  
 - **Frameworks and Libraries:** Reactjs, Nextjs, Flask, Django, Nodejs, Express
-- **Tools and Platforms:** Figma, Clickup, 
+  
+- **Tools and Platforms:** Figma, Clickup.
+  
 - **Other Skills:** Web design, Communication, Data Analysis, Dynamic Programming, AI agents Programming.
+
 
 ## Projects
 
@@ -41,7 +53,7 @@ Here are some of the projects I've worked on:
 
 - [LinkedIn](#)
 - [Twitter](#)
-- [Personal Website](#)
+- [Personal Website](https://davidtimi1.github.io)
 
 ---
 
