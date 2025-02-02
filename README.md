@@ -46,8 +46,12 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidTimi1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimi1&layout=compact&theme=radical)
+![DavidTimi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidTimi1&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidTimi1&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimi1&layout=compact&theme=radical)
+
 
 ## Connect with Me
 - [Email](mailto:duwagbale07@gmail.com)
