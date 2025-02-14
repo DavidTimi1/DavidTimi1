@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a passionate Fullstack web developer with over 2 years of experience in web technologies. My expertise includes working with React, Flask, Django, and Python development. I enjoy creating impactful projects and exploring the latest advancements in AI.
+I am an experienced Programmer, currently working as a Fullstack web developer with over 2 years of experience in web technologies. My expertise includes working with React, Flask, Django, and Python development. I enjoy creating impactful projects and exploring the latest advancements in AI.
 
 ## About Me
 
@@ -46,11 +46,11 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-[![DavidTimi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidTimi1&show_icons=true&theme=radical)](https://git.io/streak-stats)
+[DavidTimi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidTimi1&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidTimi1&theme=radical)](https://git.io/streak-stats)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidTimi1&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimi1&layout=compact&theme=radical)](https://git.io/streak-stats)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimi1&layout=compact&theme=radical)
 
 
 ## Connect with Me
