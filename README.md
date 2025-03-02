@@ -8,7 +8,7 @@ I am an experienced Programmer, currently working as a Fullstack web developer w
 
 - 🔭 I’m currently working on [**Message50**](https://message50-frontend.vercel.app/app), An e2ee webapp which extensively leverages current browser capabilities 💫
   
-- 🌱 I’m currently learning NextJs and Typescript to add to my skillset
+- 🌱 I’m currently learning NextJs and Typescript to add to my skillset.
   
 - 👯 I’m looking to collaborate on AI-powered and AI-enhanced projects
   
