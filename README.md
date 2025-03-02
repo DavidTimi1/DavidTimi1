@@ -22,7 +22,7 @@ I am an experienced Programmer, currently working as a Fullstack web developer w
   
 - 😄 Pronouns: He/Him
   
-- ⚡ Fun fact: I'm quite langly but have tons of humour to spare 😄 
+- ⚡ Fun fact: 
 
 
 ## Skills
