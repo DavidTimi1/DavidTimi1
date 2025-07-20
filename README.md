@@ -41,17 +41,15 @@ I am an experienced Programmer, currently working as a Fullstack web developer w
 
 Here are some of the projects I've worked on:
 
-- [Project Name](#) - Brief description of the project.
-- [Project Name](#) - Brief description of the project.
-- [Project Name](#) - Brief description of the project.
+- [Message50](https://message50-frontend.vercel.app) - An E2EE messaging platform
+- [Pic2plate](https://pic2plate-tau.vercel.app) - Describe or take a picture of any meal and get full ingredients and recipe.
+- [Chess](https://github.com/DavidTimi1/Chess) - Fully functional multiplayer 2D chess game.
 
 ## GitHub Stats
 
-[DavidTimi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidTimi1&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtimi1&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="davidtimi1" /></p>
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidTimi1&theme=radical)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTimi1&layout=compact&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidtimi1&show_icons=true&theme=highcontrast&locale=en" alt="DavidTimi1" /></p>
 
 
 ## Connect with Me
@@ -59,6 +57,20 @@ Here are some of the projects I've worked on:
 - [Personal Website](https://davidtimi1.github.io)
 - [Twitter](https://twitter.com/DavidTimi_1)
 - [LinkedIn](https://linkedin.com/in/DavidUwagbale)
+
+<p align="left">
+  
+<a href="https://dev.to/dev_id" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_id devto profile" height="30" width="40" /></a>
+
+<a href="https://x.com/DavidTimi_1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DavidTimi_1" height="30" width="30" /></a>
+  
+<a href="https://linkedin.com/in/daviduwagbale" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviduwagbale" height="30" width="40" /></a>
+
+<!-- <a href="https://t.me/DavidTimi1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="" height="30" width="40" /></a>
+-->
+
+</p>
+
 
 ---
 
