@@ -47,9 +47,10 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtimi1&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="davidtimi1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidtimi1&show_icons=true&theme=highcontrast&locale=en" alt="DavidTimi1" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=davidtimi16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=davidtimi16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtimi16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Connect with Me
