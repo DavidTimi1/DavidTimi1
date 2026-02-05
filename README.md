@@ -16,7 +16,7 @@ I am an experienced Programmer, currently working as a Fullstack web developer w
 - 🤔 I’m looking for help with setting **Twilio** up for messaging
   
 - 💬 Ask me about:
-  *Programming in general, Web caoabilties, Project structuring and SEO optimisation*.
+  *Programming in general, Web capabilities, Project structuring and SEO optimisation*.
  
 - 📫 How to reach me:
   [Email](mailto:duwagbale07@gmail.com)
