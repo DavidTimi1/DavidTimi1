@@ -55,7 +55,7 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 - [Email](mailto:duwagbale07@gmail.com)
-- [Personal Website](https://davidtimi1.github.io)
+- [Personal Website](https://davidtimi1.tech)
 - [Twitter](https://twitter.com/DavidTimi_1)
 - [LinkedIn](https://linkedin.com/in/DavidUwagbale)
 
