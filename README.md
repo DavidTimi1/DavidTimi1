@@ -14,6 +14,7 @@
 <span><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=davidtimi1&hide_border=false&theme=dark" /></span>
 <span><img src="https://github-stats-extended.vercel.app/api?username=davidtimi1&hide_border=false&theme=dark" /> </span>
 <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtimi1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </span>
+<a href="https://user-badge.committers.top/nigeria/davidtimi1"> <img src="ttps://user-badge.committers.top/nigeria/davidtimi1.svg" /> </a>
 </p>
 
 <br />
